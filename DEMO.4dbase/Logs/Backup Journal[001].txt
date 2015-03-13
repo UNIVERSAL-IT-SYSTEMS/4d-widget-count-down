@@ -1,7 +1,0 @@
-*** Full Backup
-Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-widget-count-down:DEMO.4dbase:DEMO[0001].4BK
-Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-widget-count-down:DEMO.4dbase:DEMO[0000].4BL
-Scheduled : 15/03/13 09:34:25
-Starting : 15/03/13 09:34:25
-Ending : 15/03/13 09:34:25
-
