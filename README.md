@@ -98,7 +98,7 @@ End case
 
 下記の方法で作成されたSVGにはバックエンドのDOMが存在します。
 
-* SVG EXPORT TO PICTURE``` (```Get XML Data Source```以外のオプション)
+*  ```SVG EXPORT TO PICTURE``` (```Get XML Data Source```以外のオプション)
 * ```BLOB TO PICTURE```
 
 下記の方法で作成されたSVGにはバックエンドのDOMが存在しません。
