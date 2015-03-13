@@ -16,8 +16,6 @@
 * フォームイベントは```On Data Change```以外，すべて外してください。
 * オブジェクト名は必要に応じて変更してください。
 
-![](https://github.com/miyako/4d-widget-count-down/blob/master/images/2.png)
-
 * タイマーを開始する
 ```
 CD_START ("Timer1";?00:00:30?)
@@ -72,4 +70,3 @@ End case
 
 End case 
 ```
-![](https://github.com/miyako/4d-widget-count-down/blob/master/images/3.png)
