@@ -55,11 +55,6 @@ Case of
 Case of 
 : (Self->=?00:00:00?)
 
-OBJECT SET ENABLED(*;"Start";True)
-OBJECT SET ENABLED(*;"Resume";False)
-OBJECT SET ENABLED(*;"Pause";False)
-OBJECT SET ENABLED(*;"Stop";False)
-
 CANCEL
 
 : ((Self->)<?00:00:10?)
