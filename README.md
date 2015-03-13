@@ -110,3 +110,7 @@ End case
 * ライブラリピクチャ
 
 ```DOM SET XML ATTRIBUTE BY NAME (INDEX) ```とは違い，```SVG SET ATTRIBUTE/SVG GET ATTRIBUTE```は，レンダリングされたDOMを直接，書き換えることができます。ですから， <def>要素で定義されたCSSクラスや```<g>```要素，```<use>```要素など，さまざまな仕方で継承された最終的な属性値を読み書きすることができます。また，DOMを再解析する必要がありません。一方，```<def>```やCSSクラスなど，宣言型の定義を書き換えることはできません。そのような定義を書き換えるためには，DOMコマンドでXMLそのものを書き換えてから，再度，```SVG EXPORT TO PICTURE```で画像を作成する必要があります。
+
+Acknowledgments
+---
+Digital Clock (www.Mathew.Callaghan.ws) / CC BY 4.0
